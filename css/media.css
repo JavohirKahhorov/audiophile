@@ -1,0 +1,6 @@
+@media screen and (max-width: 992px) {
+  body header nav.container .nav-links {
+    display: none;
+  }
+}
+/*# sourceMappingURL=media.css.map */
